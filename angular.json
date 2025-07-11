@@ -14,7 +14,6 @@
           "builder": "@angular/build:application",
           "options": {
             "outputPath": "dist/PraxisBartolome",
-            "browser": "",
             "polyfills": [
               "zone.js"
             ],
